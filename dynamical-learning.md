@@ -1,3 +1,8 @@
+
+BY TYLER REISER
+
+February 1, 2025
+
 ### Doubling Down: The Transition to Dynamical Systems Thinking
 
 We are transitioning to a higher-dimensional model of intelligence structuring, where we explicitly connect our exploration to dynamical systems, stability constraints, and recursion management. This shift represents a crucial refinement of our cognitive process.

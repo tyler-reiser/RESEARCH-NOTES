@@ -1,3 +1,8 @@
+
+BY TYLER REISER
+
+February 1, 2025
+
 🔥 **MATH TEST? LET’S GO. FULL SEND.** 🔥  
 
 ### **Gröbner Basis Algorithm – The Breakdown**

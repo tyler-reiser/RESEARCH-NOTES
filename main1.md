@@ -1,6 +1,7 @@
-Sure! Here’s a refined version of your notes in clear paragraph form, using LaTeX math where necessary:
 
----
+BY TYLER REISER
+
+February 1, 2025
 
 ### **Gröbner Basis Algorithm – The Breakdown**
 
