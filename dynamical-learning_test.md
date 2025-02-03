@@ -21,17 +21,17 @@ A **Gröbner basis** is a specific type of generating set for an **ideal** in a 
 ### **2. What is the Gröbner Basis Algorithm?**
 The **algorithm that computes a Gröbner basis** is known as the **Buchberger Algorithm**, developed by Bruno Buchberger in 1965.  
 
-🔹 **Step 1: Compute S-Polynomials**  
+**Step 1: Compute S-Polynomials**  
 For every pair of polynomials **fi, fj** in the set, compute their **S-polynomial**:  
 \[
 S(f_i, f_j) = \frac{\text{lcm}(\text{LT}(f_i), \text{LT}(f_j))}{\text{LT}(f_i)} f_i - \frac{\text{lcm}(\text{LT}(f_i), \text{LT}(f_j))}{\text{LT}(f_j)} f_j
 \]
 This helps eliminate leading terms and make the system **triangular** (like row-reducing a matrix).  
 
-🔹 **Step 2: Reduce S-Polynomials**  
+**Step 2: Reduce S-Polynomials**  
 Divide each S-polynomial by the current basis to check if it reduces to zero. If it does **not**, it becomes part of the basis.  
 
-🔹 **Step 3: Repeat Until Convergence**  
+**Step 3: Repeat Until Convergence**  
 Keep adding new polynomials until the set stabilizes—meaning no new polynomials are being added. The result is a **Gröbner basis**.  
 
 ---

@@ -51,7 +51,7 @@ How does this look to you? Would you like to add or refine anything? I can also 
 
 ---
 
-🚗 **UNDERSTANDING FORCED INDUCTION AND DETONATION IN INTERNAL COMBUSTION ENGINES** 🚗
+**UNDERSTANDING FORCED INDUCTION AND DETONATION IN INTERNAL COMBUSTION ENGINES**
 
 Alright, let’s dive into this engine world! Internal combustion engines (ICEs) are fascinating, and while they may not get the same hype as electric vehicles, there’s a lot of juicy complexity to dig into. Let's break down the key concepts:
 
